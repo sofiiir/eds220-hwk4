@@ -3,7 +3,7 @@
 
 ## Data Access:
 
--**Data download:** All data used in this analyisis can be accessed and downloaded in a single Google Drive here: [Data Google Drive](https://drive.google.com/file/d/14CauXFZkVh_6z2Euq0m1Sq1kHQ31fiMk/view). The data is all publicly available as denoted below. 
+-**Data download:** 
 
 
 ## File structure:
