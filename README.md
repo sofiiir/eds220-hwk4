@@ -26,7 +26,10 @@
 -**Data download:** 
 
 
-## File structure:
+## Repository structure: 
+
+<img width="399" height="100" alt="eds220-hwk4-tree" src="https://github.com/user-attachments/assets/821875e2-6870-476c-9b66-b856948ee881" />
+
 
 ## Repository Contents:
 
