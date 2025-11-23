@@ -26,8 +26,10 @@ This repository fulfills homework 4 for the course 220: Working with Environment
 ## Data Access:
 
 - **Data download:**
-      1. The Landsat8 data was downloaded from the courses data Google Drive that can be accessed [here](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP). Landsat8 data can also be downloaded through the USGS webpage at [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)
-      2. Eaton and Palisades Fire boundary data was downloaded from the City of Los Angeles ArcGIS hub. It can be accessed at [https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) .
+
+  1. The Landsat8 data was downloaded from the courses data Google Drive that can be accessed [here](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP). Landsat8 data can also be downloaded through the USGS webpage at [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)
+
+  2. Eaton and Palisades Fire boundary data was downloaded from the City of Los Angeles ArcGIS hub. It can be accessed at [https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) .
 
 
 ## Repository structure: 
