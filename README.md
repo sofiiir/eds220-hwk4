@@ -3,6 +3,8 @@
 
 This repository fulfills homework 4 for the course 220: Working with Environmental Data Sets as part of the Masters of Environmental Data Science program through the Bren School of Environmental Science and Management at the University of California Santa Barbara. 
 
+<img width="789" height="376" alt="Screenshot 2025-11-23 at 3 23 38 PM" src="https://github.com/user-attachments/assets/aaf53806-9fb8-45de-a45e-b170ec53ef4e" />
+
 ## About
 
 **1. Purpose:** 
