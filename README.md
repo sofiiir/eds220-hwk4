@@ -1,6 +1,8 @@
 # EDS220: Visualizing Palisades and Eaton Fire Scars through False Color
 #### Author: Sofia Rodas
 
+This repository fulfills homework 4 for the course 220: Working with Environmental Data Sets as part of the Masters of Environmental Data Science program through the Bren School of Environmental Science and Management at the University of California Santa Barbara. 
+
 ## About
 
 **1. Purpose:** 
@@ -13,7 +15,7 @@
 
 - False color Landsat maps are created by selecting the short-wave infrared (swir22), near-infrared, and red variables (in that order). This map best depicts the fire scars on the landscape. The final map shows the fire scars with the additional boundaries of the fires being included for clarity. 
 
-**3. Datasets description:** 
+**3. Datasets descriptions:** 
 - Eaton Fire perimeter: The fire perimeter data was acquired from the Los Angeles County official GIS catalogue. This Los Angeles County GIS data is originally from the National Interagency Fire Center (NIFC) through the Fire Integrated Real-time Intelligence System (FIRIS). It contains the boundary of the Eaton Fire.
 
 - Palisades Fire perimeter: The fire perimeter data was acquired from the Los Angeles County official GIS catalogue. This Los Angeles County GIS data is originally from the National Interagency Fire Center (NIFC) through the Fire Integrated Real-time Intelligence System (FIRIS). It contains the boundary of the Palisades Fire.
@@ -23,21 +25,20 @@
 
 ## Data Access:
 
--**Data download:** 
+- **Data download:**
+      1. The Landsat8 data was downloaded from the courses data Google Drive that can be accessed [here](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP). Landsat8 data can also be downloaded through the USGS webpage at [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)
+      2. Eaton and Palisades Fire boundary data was downloaded from the City of Los Angeles ArcGIS hub. It can be accessed at [https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) .
 
 
 ## Repository structure: 
 
 <img width="399" height="100" alt="eds220-hwk4-tree" src="https://github.com/user-attachments/assets/821875e2-6870-476c-9b66-b856948ee881" />
 
-
-## Repository Contents:
+Note: The data files were added to the gitignore. See data access above for details on data acquisition.
 
 ## References:
 
-- Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. https://doi.org/10.5066/P9OGBGM6 [Accessed November 17 ,2025]
+- Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. https://doi.org/10.5066/P9OGBGM6. Available: [Accessed November 17 ,2025]
 
-- NIFC FIRIS(2025).Palisades and Eaton Dissolved Fire Perimeters (2025) [Shapefile]. County of Los Angeles. https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about. [Retrieved November 17, 2025]
+- City of Los Angeles GeoHub / NIFC FIRIS(2025).Palisades and Eaton Dissolved Fire Perimeters (2025) [Shapefile]. Available: https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about. [Retrieved November 17, 2025]
 
-### References:
-[Palisades and Eaton Dissolved Fire Perimeters](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about)
