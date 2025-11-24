@@ -3,7 +3,8 @@
 
 This repository fulfills homework 4 for the course 220: Working with Environmental Data Sets as part of the Masters of Environmental Data Science program through the Bren School of Environmental Science and Management at the University of California Santa Barbara. 
 
-<img width="649" height="392" alt="Screenshot 2025-11-23 at 6 40 43 PM" src="https://github.com/user-attachments/assets/e4280baa-a038-49b8-a0a9-9367e7d9eb28" />
+<img width="645" height="390" alt="Screenshot 2025-11-23 at 6 48 27 PM" src="https://github.com/user-attachments/assets/722a1049-bb44-4aa9-9f87-2f32a218d500" />
+
 
 Final false color imagery map depicting the Eaton and Palisades fire.
 
