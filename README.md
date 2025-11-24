@@ -5,6 +5,7 @@ This repository fulfills homework 4 for the course 220: Working with Environment
 
 <img width="649" height="392" alt="Screenshot 2025-11-23 at 6 40 43 PM" src="https://github.com/user-attachments/assets/e4280baa-a038-49b8-a0a9-9367e7d9eb28" />
 
+Final false color imagery map depicting the Eaton and Palisades fire.
 
 ## About
 
@@ -37,7 +38,7 @@ This repository fulfills homework 4 for the course 220: Working with Environment
 
 ## Repository structure: 
 
-<img width="399" height="100" alt="eds220-hwk4-tree" src="https://github.com/user-attachments/assets/821875e2-6870-476c-9b66-b856948ee881" />
+<img width="442" height="97" alt="Screenshot 2025-11-23 at 6 43 41 PM" src="https://github.com/user-attachments/assets/b33968be-2fe7-4b64-97cf-0260e4ba105d" />
 
 Note: The data files were added to the gitignore. See data access above for details on data acquisition.
 
