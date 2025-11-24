@@ -6,7 +6,7 @@ This repository fulfills homework 4 for the course 220: Working with Environment
 <img width="645" height="390" alt="Screenshot 2025-11-23 at 6 48 27 PM" src="https://github.com/user-attachments/assets/722a1049-bb44-4aa9-9f87-2f32a218d500" />
 
 
-Final false color imagery map depicting the Eaton and Palisades fire.
+Final false color imagery map depicting the Eaton and Palisades Fires.
 
 ## About
 
