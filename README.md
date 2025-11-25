@@ -11,7 +11,7 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 ## About
 
 **1. Purpose:** 
-- This repository explores maps NASA and USGS Landsat8 data and National Interagency Fire Center (NIFC) fire boundaries data depicting the Eaton and Palisades Fires that occured in January of 2025. The final result is a false color map showing clear colorations of the fore scars with an overlay of the official fire boundaries. 
+- This repository maps NASA and USGS Landsat8 data and National Interagency Fire Center (NIFC) fire boundaries data depicting the Eaton and Palisades Fires that occured in January of 2025. The final result is a false color map showing clear colorations of the fire scars with an overlay of the official fire boundaries. 
 
 **2.  Highlights:** 
 - Landsat data is read in with NetCDF. No CRS is originally assigned to the entire Landsat data. The CRS is held in the `spatial_ref` variable. The GeoSpatial data must be restored by using the CRS from the `spatial_ref` variable. 
@@ -21,11 +21,9 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 - False color Landsat maps are created by selecting the short-wave infrared (swir22), near-infrared, and red variables (in that order). This map best depicts the fire scars on the landscape. The final map shows the fire scars with the additional boundaries of the fires being included for clarity. 
 
 **3. Datasets descriptions:** 
-- Eaton Fire perimeter: The fire perimeter data was acquired from the Los Angeles County official GIS catalogue. This Los Angeles County GIS data is originally from the National Interagency Fire Center (NIFC) through the Fire Integrated Real-time Intelligence System (FIRIS). It contains the boundary of the Eaton Fire.
+- **Eaton and Palisades Fire perimeters:** The fire perimeter data was acquired from the City of Los Angeles official GeoHub. This City of Los Angeles GIS data is originally from the National Interagency Fire Center (NIFC) through the Fire Integrated Real-time Intelligence System (FIRIS). Eaton fire and Palisades fire perimeters are included in this download. 
 
-- Palisades Fire perimeter: The fire perimeter data was acquired from the Los Angeles County official GIS catalogue. This Los Angeles County GIS data is originally from the National Interagency Fire Center (NIFC) through the Fire Integrated Real-time Intelligence System (FIRIS). It contains the boundary of the Palisades Fire.
-
-- Landsat8: NASA Landsat satellites in conjunction with USGS acquire data using 11 bands through the use of Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS). Landsat satellites orbit earth at a rate of 16 days per cycle.
+- **Landsat8:** NASA Landsat satellites in conjunction with USGS acquire data using 11 bands through the use of Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS). Landsat satellites orbit earth at a rate of 16 days per cycle making imaging availability satelite location dependent.
 
 
 ## Data Access:
@@ -41,7 +39,7 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 
 <img width="442" height="97" alt="Screenshot 2025-11-23 at 6 43 41 PM" src="https://github.com/user-attachments/assets/b33968be-2fe7-4b64-97cf-0260e4ba105d" />
 
-Note: The data files were added to the gitignore. See data access above for details on data acquisition.
+Note: The data files were added to the .gitignore. See data access above for details on data acquisition.
 
 ## References:
 
