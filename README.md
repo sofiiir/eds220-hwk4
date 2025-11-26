@@ -44,15 +44,16 @@ Note: The data files were added to the .gitignore. See data access above for det
 
 ## References:
 
+
 - C. Galaz Garcia and A. Adams, EDS 220 - Working with Environmental Datasets. (n.d.) Available: https://meds-eds-220.github.io/MEDS-eds-220-course/. [Accessed November 17, 2025]
 
 - City of Los Angeles GeoHub / NIFC FIRIS(2025).Palisades and Eaton Dissolved Fire Perimeters (2025) [Shapefile]. Available: https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about. [Retrieved November 17, 2025]
   
 - Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. https://doi.org/10.5066/P9OGBGM6. Available: https://www.usgs.gov/centers/eros/science/usgs-eros-archive-landsat-archives-landsat-8-9-olitirs-collection-2-level-2. [Accessed November 17 ,2025]
 
-- NASA Earth Observatory. (2014, Mar. 4). Why is that forest red and that cloud blue? How to interpret a false-color satellite image_. Available: https://earthobservatory.nasa.gov/features/FalseColor.
-[Accessed: Nov. 18, 2025]
+- NASA Earth Observatory. (2014, Mar. 4). Why is that forest red and that cloud blue? How to interpret a false-color satellite image. Available: https://earthobservatory.nasa.gov/features/FalseColor.
+[Accessed: November 18, 2025]
 
-- U.S. Geological Survey. (n.d.). What are the band designations for the Landsat satellites?_ Available: https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites. [Accessed: Nov. 18, 2025]
+- U.S. Geological Survey. (n.d.). What are the band designations for the Landsat satellites? Available: https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites. [Accessed: November 18, 2025]
 
-- U.S. Geological Survey. (2021, Nov. 12). _Common Landsat band combinations_. Available: https://www.usgs.gov/media/images/common-landsat-band-combinations. [Accessed: Nov. 18, 2025]
+- U.S. Geological Survey. (2021, Nov. 12). Common Landsat band combinations. Available: https://www.usgs.gov/media/images/common-landsat-band-combinations. [Accessed: November 18, 2025]
