@@ -16,7 +16,7 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 **2.  Highlights:** 
 - Landsat data is read in with NetCDF. No CRS is originally assigned to the entire Landsat data. The CRS is held in the `spatial_ref` variable. The GeoSpatial data must be restored by using the CRS from the `spatial_ref` variable. 
 
-- Landsat data is versatile. Landsat 8 has 8 bands that can be selected to make a variety of coloration maps. For example, the red, green, and blue bands (in that order) can be selected in that order to create a true coloration map. 
+- Landsat data is versatile. Landsat 8 has 11 bands that can be selected to make a variety of coloration maps. For example, the red, green, and blue bands (in that order) can be selected in that order to create a true coloration map. 
 
 - False color Landsat maps are created by selecting the short-wave infrared (swir22), near-infrared, and red variables (in that order). This map best depicts the fire scars on the landscape. The final map shows the fire scars with the additional boundaries of the fires being included for clarity. 
 
@@ -30,9 +30,9 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 
 - **Data download:**
 
-  1. The Landsat8 data was downloaded from the courses data Google Drive that can be accessed [here](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP). Landsat8 data can also be downloaded through the USGS webpage at [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)
+  1. The Landsat8 data was downloaded from the courses data Google Drive that can be accessed [here](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP). Landsat8 data can also be downloaded through the USGS webpage at [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/). This data is publicly available.
 
-  2. Eaton and Palisades Fire boundary data was downloaded from the City of Los Angeles ArcGIS hub. It can be accessed at [https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) .
+  2. Eaton and Palisades Fire boundary data was downloaded from the City of Los Angeles ArcGIS hub. It can be accessed at [https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://geohub.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about). This data is publicly available.
 
 
 ## Repository structure: 
