@@ -1,8 +1,8 @@
 # EDS220: Visualizing Palisades and Eaton Fire Scars through False Color and Environmental Justice Indices
 #### Author: Sofia Rodas
-#### Date: November 25, 2025
+#### Date: December 3, 2025
 
-This repository fulfills homework 4 for the course 220: Working with Environmental Data Sets as part of the Masters of Environmental Data Science program through the Bren School of Environmental Science and Management at the University of California Santa Barbara. 
+This repository fulfills the final project requirement for the course 220: Working with Environmental Data Sets as part of the Masters of Environmental Data Science program through the Bren School of Environmental Science and Management at the University of California Santa Barbara. 
 
 <img width="645" height="390" alt="Screenshot 2025-11-23 at 6 48 27 PM" src="https://github.com/user-attachments/assets/722a1049-bb44-4aa9-9f87-2f32a218d500" />
 
@@ -20,6 +20,8 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 - Landsat data is versatile. Landsat 8 has 11 bands that can be selected to make a variety of coloration maps. For example, the red, green, and blue bands (in that order) can be selected in that order to create a true coloration map. 
 
 - False color Landsat maps are created by selecting the short-wave infrared (swir22), near-infrared, and red variables (in that order). This map best depicts the fire scars on the landscape. The final map shows the fire scars with the additional boundaries of the fires being included for clarity.
+
+- Visusalize Environmental Justice Index data. 
 
 **3. Datasets descriptions:** 
 - **Eaton and Palisades Fire perimeters:** The fire perimeter data was acquired from the City of Los Angeles official GeoHub. This City of Los Angeles GIS data is originally from the National Interagency Fire Center (NIFC) through the Fire Integrated Real-time Intelligence System (FIRIS). Eaton fire and Palisades fire perimeters are included in this download. This data is publicly available.
@@ -41,8 +43,8 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 
 
 ## Repository structure: 
+<img width="348" height="157" alt="Screenshot 2025-12-03 at 6 29 49 PM" src="https://github.com/user-attachments/assets/86cfb86d-935e-479b-b24c-a98df0f554a8" />
 
-<img width="442" height="97" alt="Screenshot 2025-11-23 at 6 43 41 PM" src="https://github.com/user-attachments/assets/b33968be-2fe7-4b64-97cf-0260e4ba105d" />
 
 Note: The data files were added to the .gitignore. See data access above for details on data acquisition.
 
