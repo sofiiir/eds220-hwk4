@@ -1,8 +1,8 @@
 # EDS220: Visualizing Palisades and Eaton Fire Scars through False Color and Environmental Justice Indices
 #### Author: Sofia Rodas
-#### Date: November 25, 2025
+#### Date: December 3, 2025
 
-This repository fulfills homework 4 for the course 220: Working with Environmental Data Sets as part of the Masters of Environmental Data Science program through the Bren School of Environmental Science and Management at the University of California Santa Barbara. 
+This repository fulfills the final project requirement for the course 220: Working with Environmental Data Sets as part of the Masters of Environmental Data Science program through the Bren School of Environmental Science and Management at the University of California Santa Barbara. 
 
 <img width="645" height="390" alt="Screenshot 2025-11-23 at 6 48 27 PM" src="https://github.com/user-attachments/assets/722a1049-bb44-4aa9-9f87-2f32a218d500" />
 
