@@ -41,8 +41,8 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 
 
 ## Repository structure: 
+<img width="348" height="157" alt="Screenshot 2025-12-03 at 6 29 49 PM" src="https://github.com/user-attachments/assets/86cfb86d-935e-479b-b24c-a98df0f554a8" />
 
-<img width="442" height="97" alt="Screenshot 2025-11-23 at 6 43 41 PM" src="https://github.com/user-attachments/assets/b33968be-2fe7-4b64-97cf-0260e4ba105d" />
 
 Note: The data files were added to the .gitignore. See data access above for details on data acquisition.
 
