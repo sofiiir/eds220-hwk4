@@ -21,6 +21,8 @@ Final false color imagery map depicting the Eaton and Palisades Fires.
 
 - False color Landsat maps are created by selecting the short-wave infrared (swir22), near-infrared, and red variables (in that order). This map best depicts the fire scars on the landscape. The final map shows the fire scars with the additional boundaries of the fires being included for clarity.
 
+- Visusalize Environmental Justice Index data. 
+
 **3. Datasets descriptions:** 
 - **Eaton and Palisades Fire perimeters:** The fire perimeter data was acquired from the City of Los Angeles official GeoHub. This City of Los Angeles GIS data is originally from the National Interagency Fire Center (NIFC) through the Fire Integrated Real-time Intelligence System (FIRIS). Eaton fire and Palisades fire perimeters are included in this download. This data is publicly available.
 
